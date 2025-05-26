@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        border: '#e2e8f0',
         primary: {
           DEFAULT: '#6366f1',
           light: '#8b5cf6',
@@ -30,6 +31,7 @@ export default {
           800: '#1e293b',
           900: '#0f172a'
         }
+      }
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui'],
